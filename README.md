@@ -1,6 +1,34 @@
 # e_commerceapp
+Flutter E-Commerce App 🛒
 
-A new Flutter project.
+A modern and fully functional E-Commerce App built with Flutter and GetX for state management. This app provides a seamless shopping experience with a beautiful UI, product management, cart functionality, and order tracking.
+
+🚀 Features
+
+✅ User Authentication (Login & Registration using Sqflite & SharedPreferences)
+✅ Product Listings (Fetched from DummyJSON API)
+✅ Product Categories (Organized using Sqflite)
+✅ Search Functionality (Easily find products)
+✅ Cart Management (Add, remove, and update cart items)
+✅ Order Management (View order history)
+✅ Smooth Navigation (GetX State Management)
+✅ Drawer Menu (Profile, About, Logout)
+✅ Bottom Navigation Bar (Home, Cart, Orders)
+✅ Dark Mode Support
+
+🛠 Tech Stack
+
+Flutter (Dart)
+
+GetX (State Management)
+
+Sqflite (Local Database)
+
+SharedPreferences (User Preferences)
+
+DummyJSON API (Product Data)
+
+
 
 ## Getting Started
 
