@@ -14,7 +14,6 @@ A modern and fully functional E-Commerce App built with Flutter and GetX for sta
 ✅ Smooth Navigation (GetX State Management)
 ✅ Drawer Menu (Profile, About, Logout)
 ✅ Bottom Navigation Bar (Home, Cart, Orders)
-✅ Dark Mode Support
 
 🛠 Tech Stack
 
