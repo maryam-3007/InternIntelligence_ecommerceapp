@@ -6,14 +6,23 @@ A modern and fully functional E-Commerce App built with Flutter and GetX for sta
 🚀 Features
 
 ✅ User Authentication (Login & Registration using Sqflite & SharedPreferences)
-✅ Product Listings (Fetched from DummyJSON API)
+
+✅Product Listings (Fetched from DummyJSON API)
+
 ✅ Product Categories (Organized using Sqflite)
+
 ✅ Search Functionality (Easily find products)
+
 ✅ Cart Management (Add, remove, and update cart items)
-✅ Order Management (View order history)
+
+✅ Order Management (View order history
+)
 ✅ Smooth Navigation (GetX State Management)
+
 ✅ Drawer Menu (Profile, About, Logout)
+
 ✅ Bottom Navigation Bar (Home, Cart, Orders)
+
 
 🛠 Tech Stack
 
